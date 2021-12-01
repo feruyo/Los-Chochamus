@@ -1,2 +1,2 @@
 # Los Chochamus
-![Screenshot](_DSC1571.jpg)
+![](_DSC1571.jpg)
